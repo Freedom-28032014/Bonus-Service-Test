@@ -1,3 +1,5 @@
+## Задача №1 - Дописываем тесты
+
 ### Легенда
 
 На лекции мы написали [всего два тестовых сценария](https://github.com/netology-code/javaqa-code/blob/master/2.3_maven-junit/bonus-calculator/src/test/java/BonusServiceTest.java), тогда как их должно быть больше (как минимум, мы не проверили незарегистрированного пользователя).
